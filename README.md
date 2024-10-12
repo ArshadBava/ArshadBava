@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm currently pursuing my Master of Computer Applications (MCA) at Pondicherry Central University. I have a strong passion for coding, and I love building web and mobile applications.<br><br>Skills & Expertise:<br>Web Development: MEARN Stack (MongoDB, Express.js, React.js, Node.js)<br>Mobile Development: Dart & Flutter<br>Programming Languages: C++, Python<br>Databases: MySQL, MongoDB<br>I'm always eager to learn new technologies and work on challenging projects. Feel free to check out my repositories or reach out to me for collaboration!
+👋 Hi there! I'm currently pursuing my Master of Computer Applications (MCA) at Pondicherry Central University. I have a strong passion for coding, and I love building web and mobile applications.<br><br>Skills & Expertise:<br>Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Mobile Development: Dart & Flutter<br>Programming Languages: C++, Python<br>Databases: MySQL, MongoDB<br>I'm always eager to learn new technologies and work on challenging projects. Feel free to check out my repositories or reach out to me for collaboration!
 
 
 ## 🌐 Socials:
