@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 👋 Hello! I'm Arshad Bava, currently pursuing a Master of Computer Applications (MCA) at Pondicherry Central University. With a strong passion for coding, I specialize in both web and mobile application development. I enjoy working on innovative projects and constantly seek opportunities to expand my skill set..<br><br>Skills & Expertise:<br>Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>Mobile Development: Dart & Flutter<br>Programming Languages: C++, Python, Java, C<br>Databases: MySQL, MongoDB<br><br>I'm always eager to explore new technologies and tackle challenging projects. Feel free to explore my repositories or reach out for collaboration opportunities!
 
 ## 🌐 Socials:
